@@ -6,7 +6,7 @@ header{
  height: 50px;
  width: 100%;
  background-color: orange;
- box-shadow: 0 10px 10px grey inset
+ box-shadow: 0 10px 10px grey inset:
 }
 h1 {
  font-style: italic;
