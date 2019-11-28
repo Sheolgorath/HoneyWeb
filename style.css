@@ -1,13 +1,13 @@
 header{
  position: fixed;
  top: 0;
- right: -5px;
- left: -5px;
+ right: 0px;
+ left: 0px;
  height: 50px;
  width: 100%;
  background-color: orange;
  box-shadow: 0 -5px 10px yellow inset;
 }
 h1 {
- 
+ font-family: "Racing SansOne", cursive;
 }
