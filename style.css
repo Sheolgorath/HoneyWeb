@@ -12,5 +12,5 @@ h1 {
  top: 10px;
  left: 15px
  font-family: "Racing Sans One", cursive;
- text_align: inherit;
+ text-align: justify;
 }
