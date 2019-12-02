@@ -19,6 +19,11 @@ h1 {
  text-align: justify;
 }
 nav{
+ position: fixed;
+ bottom: 0px;
+ left: 0px;
+ height: 80%;
+ width: 25%;
  display: inline-table;
 }
 div.nav{
