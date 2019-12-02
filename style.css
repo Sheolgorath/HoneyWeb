@@ -25,7 +25,10 @@ nav{
  height: 80%;
  width: 25%;
  display: inline-table;
+ background-color: SkyBlue;
 }
 div.nav{
  display: table-cell;
+ padding: 3px;
+ background-color: red;
 }
