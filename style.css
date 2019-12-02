@@ -7,8 +7,11 @@ header{
  width: 100%;
  background-color: orange;
  box-shadow: 0 -5px 10px yellow inset;
+ display: inline-table;
 }
 h1 {
+ display: table-cell;
+ verical-align: middle;
  top: 10px;
  left: 15px
  font-family: "Racing Sans One", cursive;
