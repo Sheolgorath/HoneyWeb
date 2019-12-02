@@ -3,7 +3,7 @@ header{
  top: 0;
  right: 0px;
  left: 0px;
- height: 50px;
+ height: 20%;
  width: 100%;
  background-color: orange;
  box-shadow: 0 -5px 10px brown inset;
@@ -17,4 +17,10 @@ h1 {
  font-family: "Racing Sans One", cursive;
  font-variant: small-caps;
  text-align: justify;
+}
+nav{
+ display: inline-table;
+}
+div.nav{
+ display: table-cell;
 }
