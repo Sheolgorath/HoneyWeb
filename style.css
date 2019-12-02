@@ -11,10 +11,10 @@ header{
 }
 h1 {
  display: table-cell;
- font-variant: small-caps;
  verical-align: middle;
  top: 10px;
  left: 15px
  font-family: "Racing Sans One", normal;
+ font-variant: small-caps;
  text-align: justify;
 }
