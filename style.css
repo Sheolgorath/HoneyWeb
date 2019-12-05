@@ -27,13 +27,9 @@ nav{
  display: flex;
  background-color: SkyBlue;
 }
-ul.nav{
- position: relative;
- height: 50px;
+#navlist{
+ list-style: none;
 }
-div.nav{
- padding: 3px;
- background-color: red;
- text-color: black;
- text-decoration: none;
+li.navobj{
+ display: block;
 }
