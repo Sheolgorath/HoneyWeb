@@ -30,6 +30,7 @@ nav{
 div.nav{
  display: table-cell;
  padding: 3px;
+ horizontal-align: middle;
  background-color: red;
  text-color: black;
  text-decoration: none;
