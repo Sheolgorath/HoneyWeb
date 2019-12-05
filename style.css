@@ -31,4 +31,6 @@ div.nav{
  display: table-cell;
  padding: 3px;
  background-color: red;
+ text-color: black;
+ text-decoration: none;
 }
