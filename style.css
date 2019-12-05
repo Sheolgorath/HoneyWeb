@@ -28,7 +28,7 @@ nav{
  align-items: center
  background-color: SkyBlue;
 }
-div.container{
+ul.nav{
  position: relative;
  height: 50px;
 }
