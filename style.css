@@ -31,7 +31,6 @@ nav{
  list-style: none;
 }
 li.navobj{
- position: absolute;
  left: 5px;
  display: block;
  padding: 7px;
