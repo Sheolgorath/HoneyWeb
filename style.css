@@ -27,11 +27,21 @@ nav{
  display: flex;
  background-color: SkyBlue;
 }
+a{
+ text-decoration: none;
+ text-color: black;
+}
 #navlist{
  list-style: none;
+ line height: 300%;
 }
 li.navobj{
- left: 5px;
+ background-color: #F2C975;
  display: block;
  padding: 7px;
+ border-radius: 5px:
+ box-shadow: -3px -3px 0 3px white inset;
+}
+#navobjM{
+  
 }
