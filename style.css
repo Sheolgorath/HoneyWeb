@@ -13,7 +13,7 @@ h1 {
  display: inline-block;
  verical-align: middle;
  top: 10px;
- left: 15px
+ left: 15px;
  font-family: "Racing Sans One", cursive;
  font-variant: small-caps;
  text-align: justify;
@@ -25,7 +25,7 @@ nav{
  height: 85%;
  width: 25%;
  display: flex;
- background-color: SkyBlue;
+ background-color: #2DBAD0;
 }
 a{
  text-decoration: none;
