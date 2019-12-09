@@ -10,7 +10,7 @@ header{
  display: inline-table;
 }
 h1 {
- display: table-cell;
+ display: inline-block;
  verical-align: middle;
  top: 10px;
  left: 15px
