@@ -47,5 +47,5 @@ li.navobj{
  display: block;
  padding: 7px;
  border-radius: 5px;
- box-shadow: 3px 3px 5px black;
+ box-shadow: 3px 3px 5px gray inline;
 }
