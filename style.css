@@ -26,6 +26,7 @@ nav{
  width: 25%;
  display: flex;
  background-color: #2DBAD0;
+ box-shadow: 3px 0 7px #2DBAD0;
 }
 a{
  text-decoration: none;
@@ -47,5 +48,5 @@ li.navobj{
  display: block;
  padding: 7px;
  border-radius: 5px;
- box-shadow: 3px 3px 5px gray inline;
+ box-shadow: 3px 3px 5px gray inset;
 }
