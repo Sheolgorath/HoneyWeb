@@ -28,7 +28,7 @@ nav{
  background-color: #2DBAD0;
  box-shadow: 3px 0 7px #2DBAD0;
 }
-a{
+:any-link{
  text-decoration: none;
  text-color: black;
 }
