@@ -30,7 +30,7 @@ nav{
 }
 :any-link{
  text-decoration: none;
- text-color: black;
+ color: black;
 }
 #navlist{
  list-style: none;
